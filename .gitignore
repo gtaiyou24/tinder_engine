@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+.ipynb_checkpoints
+.python-version
+.DS_Store
+config.py
+*.json
+.vagrant/
+analytics/with_dataset/*
